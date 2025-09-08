@@ -1,0 +1,18 @@
+@startuml
+class AuditLog {
+    +auditID: int
+    +timestamp: DateTime
+    +actionType: String   <<Create / Update / Delete / Login / Logout>>
+    +performedBy: String  <<User ID or System>>
+    +entityAffected: String   <<Account / Transaction / Customer>>
+    +entityID: int
+    +details: String
+
+    +recordAction(): void
+    +getAuditDetails(): String
+}
+
+Account "1" -- "0..*" AuditLog : logs >
+Transaction "1" -- "0..*" AuditLog : logs >
+Customer "1" -- "0..*" AuditLog : logs >
+@enduml

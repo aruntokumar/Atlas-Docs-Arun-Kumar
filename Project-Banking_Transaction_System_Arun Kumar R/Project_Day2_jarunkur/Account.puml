@@ -1,0 +1,12 @@
+@startuml
+class Account {
+    +accountID: int
+    +accountType: String
+    +balance: float
+
+    +openAccount(): void
+    +closeAccount(): void
+    +deposit(amount: float): void
+    +withdraw(amount: float): void
+}
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+class Transaction {
+    +transactionID: int
+    +date: DateTime
+    +amount: float
+    +transactionType: String   <<Deposit / Withdrawal / Transfer>>
+    +sourceAccountNumber: int
+    +destinationAccountNumber: int   <<optional>>
+    +status: String   <<Success / Failed>>
+
+    +executeTransaction(): void
+    +generateReceipt(): void
+}
+
+Account "1" -- "0..*" Transaction : has >
+@enduml

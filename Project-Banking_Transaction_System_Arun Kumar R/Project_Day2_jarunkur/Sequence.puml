@@ -1,0 +1,9 @@
+@startuml
+actor Customer
+Customer -> Account : requestTransfer(fromAcc, toAcc, amount)
+Account -> MoneyTransfer : initiateTransfer(fromAcc, toAcc, amount)
+MoneyTransfer -> Account : withdraw(fromAcc, amount)
+Account -> Account : deposit(toAcc, amount)
+MoneyTransfer -> Transaction : recordTransfer()
+Transaction --> Customer : receipt
+@enduml

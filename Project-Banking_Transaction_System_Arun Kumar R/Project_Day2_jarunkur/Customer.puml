@@ -1,0 +1,15 @@
+@startuml
+class Customer {
+    +customerID: int
+    +name: String
+    +dateOfBirth: Date
+    +address: String
+    +email: String
+    +phoneNumber: String
+
+    +password(): String  <<secured>>
+    +register(): void
+    +updateProfile(): void
+    +login(email: String, password: String): boolean
+}
+@enduml
