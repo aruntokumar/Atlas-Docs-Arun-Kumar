@@ -1,0 +1,242 @@
+[
+  {
+    "CustomerID": "C1757867245173",
+    "Email": "kumrufn@gmail.com",
+    "Address": "Chennai",
+    "Name": "Sarath",
+    "Contact": "8122418110",
+    "Password": "sa@123456"
+  },
+  {
+    "CustomerID": "C1757865937016",
+    "Email": "kpratheesh45@gmail.com",
+    "Address": "Vallioor",
+    "Name": "Pratheesh",
+    "Contact": "7867949123",
+    "Password": "pr@456789"
+  },
+  {
+    "CustomerID": "C1757868123451",
+    "Email": "anita@gmail.com",
+    "Address": "Mumbai",
+    "Name": "Anita",
+    "Contact": "9876543210",
+    "Password": "ani@12345"
+  },
+  {
+    "CustomerID": "C1757869123452",
+    "Email": "rajesh@gmail.com",
+    "Address": "Bangalore",
+    "Name": "Rajesh",
+    "Contact": "9123456780",
+    "Password": "raj@56789"
+  },
+  {
+    "CustomerID": "C1757870123453",
+    "Email": "sneha@gmail.com",
+    "Address": "Hyderabad",
+    "Name": "Sneha",
+    "Contact": "9988776655",
+    "Password": "sne@98765"
+  },
+  {
+    "CustomerID": "C1757871123454",
+    "Email": "vikram@gmail.com",
+    "Address": "Pune",
+    "Name": "Vikram",
+    "Contact": "8899776655",
+    "Password": "vik@334455"
+  },
+  {
+    "CustomerID": "C1757872123455",
+    "Email": "meera@gmail.com",
+    "Address": "Kolkata",
+    "Name": "Meera",
+    "Contact": "7766554433",
+    "Password": "mee@112233"
+  },
+  {
+    "CustomerID": "C1757873123456",
+    "Email": "ajay@gmail.com",
+    "Address": "Delhi",
+    "Name": "Ajay",
+    "Contact": "6655443322",
+    "Password": "aja@445566"
+  },
+  {
+    "CustomerID": "C1757874123457",
+    "Email": "nisha@gmail.com",
+    "Address": "Chandigarh",
+    "Name": "Nisha",
+    "Contact": "5544332211",
+    "Password": "nis@778899"
+  },
+  {
+    "CustomerID": "C1757875123458",
+    "Email": "arun@gmail.com",
+    "Address": "Jaipur",
+    "Name": "Arun",
+    "Contact": "4433221100",
+    "Password": "aru@990011"
+  },
+  {
+    "CustomerID": "C1757896123479",
+    "Email": "alice.johnson@bank.com",
+    "Address": "New York",
+    "Name": "Alice Johnson",
+    "Contact": "9876543210",
+    "Password": "passAlice123!"
+  },
+  {
+    "CustomerID": "C1757897123480",
+    "Email": "arun.kumar@bank.com",
+    "Address": "Jaipur",
+    "Name": "Arun Kumar",
+    "Contact": "9123456781",
+    "Password": "passArun123!"
+  },
+  {
+    "CustomerID": "C1757898123481",
+    "Email": "charlie.davis@bank.com",
+    "Address": "Chicago",
+    "Name": "Charlie Davis",
+    "Contact": "9234567890",
+    "Password": "passCharlie123!"
+  },
+  {
+    "CustomerID": "C1757899123482",
+    "Email": "deepa.sharma@bank.com",
+    "Address": "Lucknow",
+    "Name": "Deepa Sharma",
+    "Contact": "9345678901",
+    "Password": "passDeepa123!"
+  },
+  {
+    "CustomerID": "C1757900123483",
+    "Email": "rohit.verma@bank.com",
+    "Address": "Nagpur",
+    "Name": "Rohit Verma",
+    "Contact": "9456789012",
+    "Password": "passRohit123!"
+  },
+  {
+    "CustomerID": "C1757901123484",
+    "Email": "fiona.brown@bank.com",
+    "Address": "Philadelphia",
+    "Name": "Fiona Brown",
+    "Contact": "9567890123",
+    "Password": "passFiona123!"
+  },
+  {
+    "CustomerID": "C1757902123485",
+    "Email": "george.wilson@bank.com",
+    "Address": "San Antonio",
+    "Name": "George Wilson",
+    "Contact": "9678901234",
+    "Password": "passGeorge123!"
+  },
+  {
+    "CustomerID": "C1757903123486",
+    "Email": "hannah.moore@bank.com",
+    "Address": "San Diego",
+    "Name": "Hannah Moore",
+    "Contact": "9789012345",
+    "Password": "passHannah123!"
+  },
+  {
+    "CustomerID": "C1757904123487",
+    "Email": "ian.clark@bank.com",
+    "Address": "Dallas",
+    "Name": "Ian Clark",
+    "Contact": "9890123456",
+    "Password": "passIan123!"
+  },
+  {
+    "CustomerID": "C1757905123488",
+    "Email": "julia.lewis@bank.com",
+    "Address": "San Jose",
+    "Name": "Julia Lewis",
+    "Contact": "9901234567",
+    "Password": "passJulia123!"
+  },
+  {
+    "CustomerID": "C1757906123489",
+    "Email": "kevin.hall@bank.com",
+    "Address": "Austin",
+    "Name": "Kevin Hall",
+    "Contact": "9012345678",
+    "Password": "passKevin123!"
+  },
+  {
+    "CustomerID": "C1757907123490",
+    "Email": "meena.iyer@bank.com",
+    "Address": "Chennai",
+    "Name": "Meena Iyer",
+    "Contact": "9123456789",
+    "Password": "passMeena123!"
+  },
+  {
+    "CustomerID": "C1757908123491",
+    "Email": "rajiv.nair@bank.com",
+    "Address": "Kochi",
+    "Name": "Rajiv Nair",
+    "Contact": "9234567891",
+    "Password": "passRajiv123!"
+  },
+  {
+    "CustomerID": "C1757909123492",
+    "Email": "sneha.reddy@bank.com",
+    "Address": "Hyderabad",
+    "Name": "Sneha Reddy",
+    "Contact": "9345678902",
+    "Password": "passSneha123!"
+  },
+  {
+    "CustomerID": "C1757910123493",
+    "Email": "oliver.scott@bank.com",
+    "Address": "Charlotte",
+    "Name": "Oliver Scott",
+    "Contact": "9456789013",
+    "Password": "passOliver123!"
+  },
+  {
+    "CustomerID": "C1757911123494",
+    "Email": "paula.adams@bank.com",
+    "Address": "San Francisco",
+    "Name": "Paula Adams",
+    "Contact": "9567890124",
+    "Password": "passPaula123!"
+  },
+  {
+    "CustomerID": "C1757912123495",
+    "Email": "quentin.baker@bank.com",
+    "Address": "Indianapolis",
+    "Name": "Quentin Baker",
+    "Contact": "9678901235",
+    "Password": "passQuentin123!"
+  },
+  {
+    "CustomerID": "C1757913123496",
+    "Email": "anita.singh@bank.com",
+    "Address": "Delhi",
+    "Name": "Anita Singh",
+    "Contact": "9789012346",
+    "Password": "passAnita123!"
+  },
+  {
+    "CustomerID": "C1757914123497",
+    "Email": "sam.carter@bank.com",
+    "Address": "Denver",
+    "Name": "Sam Carter",
+    "Contact": "9890123457",
+    "Password": "passSam123!"
+  },
+  {
+    "CustomerID": "C1757915123498",
+    "Email": "tina.evans@bank.com",
+    "Address": "Washington DC",
+    "Name": "Tina Evans",
+    "Contact": "9901234568",
+    "Password": "passTina123!"
+  }
+]

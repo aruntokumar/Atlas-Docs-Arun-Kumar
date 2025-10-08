@@ -1,0 +1,7 @@
+org\atlas\bank\AccountServiceTest.class
+org\atlas\bank\TransactionStackQueueTest.class
+org\atlas\bank\CustomerServiceTest.class
+org\atlas\bank\TransactionTest.class
+org\atlas\bank\AllTests.class
+org\atlas\bank\DynamoDbClientProviderTest.class
+org\atlas\bank\PinHasherTest.class

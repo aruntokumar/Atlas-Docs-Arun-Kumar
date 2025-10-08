@@ -1,0 +1,162 @@
+[
+  {
+    "AdminID": "ADM001",
+    "CustomerID": "C1757876123459",
+    "Email": "alice.johnson@bank.com",
+    "Branch": "New York",
+    "Name": "Alice Johnson",
+    "Password": "passAlice123!"
+  },
+  {
+    "AdminID": "ADM002",
+    "CustomerID": "C1757877123460",
+    "Email": "arun.kumar@bank.com",
+    "Branch": "Jaipur",
+    "Name": "Arun Kumar",
+    "Password": "passArun123!"
+  },
+  {
+    "AdminID": "ADM003",
+    "CustomerID": "C1757878123461",
+    "Email": "charlie.davis@bank.com",
+    "Branch": "Chicago",
+    "Name": "Charlie Davis",
+    "Password": "passCharlie123!"
+  },
+  {
+    "AdminID": "ADM004",
+    "CustomerID": "C1757879123462",
+    "Email": "deepa.sharma@bank.com",
+    "Branch": "Lucknow",
+    "Name": "Deepa Sharma",
+    "Password": "passDeepa123!"
+  },
+  {
+    "AdminID": "ADM005",
+    "CustomerID": "C1757880123463",
+    "Email": "rohit.verma@bank.com",
+    "Branch": "Nagpur",
+    "Name": "Rohit Verma",
+    "Password": "passRohit123!"
+  },
+  {
+    "AdminID": "ADM006",
+    "CustomerID": "C1757881123464",
+    "Email": "fiona.brown@bank.com",
+    "Branch": "Philadelphia",
+    "Name": "Fiona Brown",
+    "Password": "passFiona123!"
+  },
+  {
+    "AdminID": "ADM007",
+    "CustomerID": "C1757882123465",
+    "Email": "george.wilson@bank.com",
+    "Branch": "San Antonio",
+    "Name": "George Wilson",
+    "Password": "passGeorge123!"
+  },
+  {
+    "AdminID": "ADM008",
+    "CustomerID": "C1757883123466",
+    "Email": "hannah.moore@bank.com",
+    "Branch": "San Diego",
+    "Name": "Hannah Moore",
+    "Password": "passHannah123!"
+  },
+  {
+    "AdminID": "ADM009",
+    "CustomerID": "C1757884123467",
+    "Email": "ian.clark@bank.com",
+    "Branch": "Dallas",
+    "Name": "Ian Clark",
+    "Password": "passIan123!"
+  },
+  {
+    "AdminID": "ADM010",
+    "CustomerID": "C1757885123468",
+    "Email": "julia.lewis@bank.com",
+    "Branch": "San Jose",
+    "Name": "Julia Lewis",
+    "Password": "passJulia123!"
+  },
+  {
+    "AdminID": "ADM011",
+    "CustomerID": "C1757886123469",
+    "Email": "kevin.hall@bank.com",
+    "Branch": "Austin",
+    "Name": "Kevin Hall",
+    "Password": "passKevin123!"
+  },
+  {
+    "AdminID": "ADM012",
+    "CustomerID": "C1757887123470",
+    "Email": "meena.iyer@bank.com",
+    "Branch": "Chennai",
+    "Name": "Meena Iyer",
+    "Password": "passMeena123!"
+  },
+  {
+    "AdminID": "ADM013",
+    "CustomerID": "C1757888123471",
+    "Email": "rajiv.nair@bank.com",
+    "Branch": "Kochi",
+    "Name": "Rajiv Nair",
+    "Password": "passRajiv123!"
+  },
+  {
+    "AdminID": "ADM014",
+    "CustomerID": "C1757889123472",
+    "Email": "sneha.reddy@bank.com",
+    "Branch": "Hyderabad",
+    "Name": "Sneha Reddy",
+    "Password": "passSneha123!"
+  },
+  {
+    "AdminID": "ADM015",
+    "CustomerID": "C1757890123473",
+    "Email": "oliver.scott@bank.com",
+    "Branch": "Charlotte",
+    "Name": "Oliver Scott",
+    "Password": "passOliver123!"
+  },
+  {
+    "AdminID": "ADM016",
+    "CustomerID": "C1757891123474",
+    "Email": "paula.adams@bank.com",
+    "Branch": "San Francisco",
+    "Name": "Paula Adams",
+    "Password": "passPaula123!"
+  },
+  {
+    "AdminID": "ADM017",
+    "CustomerID": "C1757892123475",
+    "Email": "quentin.baker@bank.com",
+    "Branch": "Indianapolis",
+    "Name": "Quentin Baker",
+    "Password": "passQuentin123!"
+  },
+  {
+    "AdminID": "ADM018",
+    "CustomerID": "C1757893123476",
+    "Email": "anita.singh@bank.com",
+    "Branch": "Delhi",
+    "Name": "Anita Singh",
+    "Password": "passAnita123!"
+  },
+  {
+    "AdminID": "ADM019",
+    "CustomerID": "C1757894123477",
+    "Email": "sam.carter@bank.com",
+    "Branch": "Denver",
+    "Name": "Sam Carter",
+    "Password": "passSam123!"
+  },
+  {
+    "AdminID": "ADM020",
+    "CustomerID": "C1757895123478",
+    "Email": "tina.evans@bank.com",
+    "Branch": "Washington DC",
+    "Name": "Tina Evans",
+    "Password": "passTina123!"
+  }
+]
